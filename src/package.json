@@ -1,0 +1,12 @@
+{
+    "name": "officeDogsTracker",
+    "version": "0.0.1",
+    "description": "Tracks important information about dogs in the office.",
+    "dependencies": {
+        "express": "4.16.4",
+        "sqlite": "3.0.3"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
