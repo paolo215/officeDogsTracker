@@ -4,7 +4,7 @@
     "description": "Tracks important information about dogs in the office.",
     "dependencies": {
         "express": "4.16.4",
-        "sqlite": "3.0.3"
+        "sqlite3": "4.0.6"
     },
     "scripts": {
         "start": "node server.js"
